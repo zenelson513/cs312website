@@ -1,7 +1,7 @@
 /* Zachary Nelson 06/26/2026 */
 body {
 background-color: #89BFF8;
-text: #1a1a1a;
+color: #1a1a1a;
 font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
@@ -14,5 +14,18 @@ p {
 color: #333333
 }
 a {
-text: #0000EE;
+color: #0000EE;
+}
+main {
+    border-radius: 15px;
+}
+nav {
+    border-radius: 15px;
+}
+header {
+    box-shadow: 5px 5px;
+}
+footer {
+    position: relative;
+    left: 20px;
 }
